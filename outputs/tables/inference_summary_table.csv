@@ -1,6 +1,0 @@
-﻿Analysis_Type,Variable,n,Sample_Stat,Benchmark,Test_Statistic,P_value,CI_Lower,CI_Upper,Result
-Proportion (Alcohol),alcohol_binary,12669,0.4517,0.35,23.0088,3.8041e-117,0.4431,0.4604,Reject H0
-Mean (Weight),Weight_KG,11843,68.43,68.0,2.7429,6.0993e-03,68.12,68.73,Reject H0
-T-Test (Weight Diff - Female),Weight_KG,5948,62.15,62.39,-0.6426,5.2048e-01,N/A,N/A,Fail to Reject
-T-Test (Weight Diff - Male),Weight_KG,5895,75.71,73.7,4.4408,9.1321e-06,N/A,N/A,Reject H0 (Significant)
-Mean (BMI - Extended),BMI_Index,11843,23.75,N/A,N/A,N/A,23.66,23.83,CI Analysis
