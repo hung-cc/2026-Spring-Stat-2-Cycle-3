@@ -8,8 +8,7 @@ Welcome to the official repository for our data science research project. This s
 ## 1. Administrative Information / 行政資訊
 * **Group Number / 組別編號**: Group 6 (Please modify if needed / 請根據實際情況修改)
 * **Member Names / 組員姓名**: 
-  * Member A / 組員 A (Please insert actual names / 請填入真實姓名)
-  * Member B / 組員 B
+  * 鍾肇紘 /113370240
   * Member C / 組員 C
 
 ---
