@@ -9,7 +9,7 @@ Welcome to the official repository for our data science research project. This s
 * **Group Number / 組別編號**: Group 14 
 * **組員姓名/學號**: 
   * 鍾肇紘 113370240
-  * Member C / 組員 C
+  * 黃柏維 111370234
 
 ---
 
