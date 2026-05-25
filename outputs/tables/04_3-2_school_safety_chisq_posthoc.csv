@@ -1,0 +1,19 @@
+﻿論文章節,評估小節,評估指標,原始題項,族群對決組合,原始 p-value,Bonferroni修正後 p-value,顯著性
+4-3,3-2,因安全顧慮不敢上學,SafetyConcernsAtSchool,過輕 (<5th) vs 正常 (5th-85th),1.0,1.0,NS
+4-3,3-2,因安全顧慮不敢上學,SafetyConcernsAtSchool,過輕 (<5th) vs 過重 (85th-95th),1.0,1.0,NS
+4-3,3-2,因安全顧慮不敢上學,SafetyConcernsAtSchool,過輕 (<5th) vs 肥胖 (>=95th),0.6843406718612065,1.0,NS
+4-3,3-2,因安全顧慮不敢上學,SafetyConcernsAtSchool,正常 (5th-85th) vs 過重 (85th-95th),0.6569314428778582,1.0,NS
+4-3,3-2,因安全顧慮不敢上學,SafetyConcernsAtSchool,正常 (5th-85th) vs 肥胖 (>=95th),0.18149412214966484,1.0,NS
+4-3,3-2,因安全顧慮不敢上學,SafetyConcernsAtSchool,過重 (85th-95th) vs 肥胖 (>=95th),0.15657036223348283,0.939422173400897,NS
+4-3,3-2,曾在校園內與人打架,PhysicalFightingAtSchool,過輕 (<5th) vs 正常 (5th-85th),0.07259472097243064,0.4355683258345838,NS
+4-3,3-2,曾在校園內與人打架,PhysicalFightingAtSchool,過輕 (<5th) vs 過重 (85th-95th),0.05268451699248919,0.31610710195493513,NS
+4-3,3-2,曾在校園內與人打架,PhysicalFightingAtSchool,過輕 (<5th) vs 肥胖 (>=95th),0.029249573643776,0.17549744186265598,NS
+4-3,3-2,曾在校園內與人打架,PhysicalFightingAtSchool,正常 (5th-85th) vs 過重 (85th-95th),0.5427603382117075,1.0,NS
+4-3,3-2,曾在校園內與人打架,PhysicalFightingAtSchool,正常 (5th-85th) vs 肥胖 (>=95th),0.16624202436278773,0.9974521461767264,NS
+4-3,3-2,曾在校園內與人打架,PhysicalFightingAtSchool,過重 (85th-95th) vs 肥胖 (>=95th),0.5562408019327914,1.0,NS
+4-3,3-2,曾攜帶武器到校園內,WeaponCarryingAtSchool,過輕 (<5th) vs 正常 (5th-85th),1.0,1.0,NS
+4-3,3-2,曾攜帶武器到校園內,WeaponCarryingAtSchool,過輕 (<5th) vs 過重 (85th-95th),0.641511817504058,1.0,NS
+4-3,3-2,曾攜帶武器到校園內,WeaponCarryingAtSchool,過輕 (<5th) vs 肥胖 (>=95th),1.0,1.0,NS
+4-3,3-2,曾攜帶武器到校園內,WeaponCarryingAtSchool,正常 (5th-85th) vs 過重 (85th-95th),0.008096867294024989,0.048581203764149934,*
+4-3,3-2,曾攜帶武器到校園內,WeaponCarryingAtSchool,正常 (5th-85th) vs 肥胖 (>=95th),0.31861197015455767,1.0,NS
+4-3,3-2,曾攜帶武器到校園內,WeaponCarryingAtSchool,過重 (85th-95th) vs 肥胖 (>=95th),0.34001820388174914,1.0,NS

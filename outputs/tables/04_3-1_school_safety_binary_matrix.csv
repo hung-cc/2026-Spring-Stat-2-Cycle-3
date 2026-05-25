@@ -1,0 +1,13 @@
+﻿論文章節,評估指標,原始題項,CDC客觀實際體重分組,總人數(N),實質發生人數(N),實質盛行率(%),數據漏填人數(N),數據缺失率(%)
+4-3,因安全顧慮不敢上學,SafetyConcernsAtSchool,01_過輕 (<5th),244,222,90.98,15,6.15
+4-3,因安全顧慮不敢上學,SafetyConcernsAtSchool,02_正常 (5th-85th),8098,7554,93.28,297,3.67
+4-3,因安全顧慮不敢上學,SafetyConcernsAtSchool,03_過重 (85th-95th),2017,1883,93.36,77,3.82
+4-3,因安全顧慮不敢上學,SafetyConcernsAtSchool,04_肥胖 (>=95th),1746,1573,90.09,110,6.3
+4-3,曾在校園內與人打架,PhysicalFightingAtSchool,01_過輕 (<5th),244,212,86.89,21,8.61
+4-3,曾在校園內與人打架,PhysicalFightingAtSchool,02_正常 (5th-85th),8098,7000,86.44,443,5.47
+4-3,曾在校園內與人打架,PhysicalFightingAtSchool,03_過重 (85th-95th),2017,1723,85.42,123,6.1
+4-3,曾在校園內與人打架,PhysicalFightingAtSchool,04_肥胖 (>=95th),1746,1458,83.51,132,7.56
+4-3,曾攜帶武器到校園內,WeaponCarryingAtSchool,01_過輕 (<5th),244,227,93.03,13,5.33
+4-3,曾攜帶武器到校園內,WeaponCarryingAtSchool,02_正常 (5th-85th),8098,7550,93.23,429,5.3
+4-3,曾攜帶武器到校園內,WeaponCarryingAtSchool,03_過重 (85th-95th),2017,1856,92.02,114,5.65
+4-3,曾攜帶武器到校園內,WeaponCarryingAtSchool,04_肥胖 (>=95th),1746,1571,89.98,144,8.25
