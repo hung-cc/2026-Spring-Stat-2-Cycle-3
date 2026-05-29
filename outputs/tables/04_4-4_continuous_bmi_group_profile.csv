@@ -1,0 +1,17 @@
+﻿評估指標,衍生欄位,BMI體重等級,有效觀察值數量(Valid N),缺失值數量(Missing N),組內漏填率(%)
+過去30天常規吸菸天數 (天),SmokingDays_Continuous,01_過輕 (<5th),235,9,3.69
+過去30天常規吸菸天數 (天),SmokingDays_Continuous,02_正常 (5th-85th),7761,337,4.16
+過去30天常規吸菸天數 (天),SmokingDays_Continuous,03_過重 (85th-95th),1925,92,4.56
+過去30天常規吸菸天數 (天),SmokingDays_Continuous,04_肥胖 (>=95th),1656,90,5.15
+過去30天抽雪茄天數 (天),CigarDays_Continuous,01_過輕 (<5th),241,3,1.23
+過去30天抽雪茄天數 (天),CigarDays_Continuous,02_正常 (5th-85th),7953,145,1.79
+過去30天抽雪茄天數 (天),CigarDays_Continuous,03_過重 (85th-95th),1996,21,1.04
+過去30天抽雪茄天數 (天),CigarDays_Continuous,04_肥胖 (>=95th),1709,37,2.12
+過去30天使用無煙菸品天數 (天),SmokelessDays_Continuous,01_過輕 (<5th),239,5,2.05
+過去30天使用無煙菸品天數 (天),SmokelessDays_Continuous,02_正常 (5th-85th),7929,169,2.09
+過去30天使用無煙菸品天數 (天),SmokelessDays_Continuous,03_過重 (85th-95th),1992,25,1.24
+過去30天使用無煙菸品天數 (天),SmokelessDays_Continuous,04_肥胖 (>=95th),1704,42,2.41
+首次吸菸之實質真實年齡 (歲),AgeOfFirstSmoking_Continuous,01_過輕 (<5th),85,159,65.16
+首次吸菸之實質真實年齡 (歲),AgeOfFirstSmoking_Continuous,02_正常 (5th-85th),3042,5056,62.44
+首次吸菸之實質真實年齡 (歲),AgeOfFirstSmoking_Continuous,03_過重 (85th-95th),835,1182,58.6
+首次吸菸之實質真實年齡 (歲),AgeOfFirstSmoking_Continuous,04_肥胖 (>=95th),751,995,56.99

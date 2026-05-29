@@ -1,0 +1,5 @@
+﻿論文章節,評估指標,衍伸連續欄位,資料型態,有效樣本數,缺失值數量,最小值,最大值
+4-4-2,過去30天常規吸菸天數 (天),SmokingDays_Continuous,float64,12389,605,0.0,30.0
+4-4-2,過去30天抽雪茄天數 (天),CigarDays_Continuous,float64,12750,244,0.0,30.0
+4-4-2,過去30天使用無煙菸品天數 (天),SmokelessDays_Continuous,float64,12703,291,0.0,30.0
+4-4-2,首次吸菸之實質真實年齡 (歲),AgeOfFirstSmoking_Continuous,float64,5019,7975,7.0,17.5
