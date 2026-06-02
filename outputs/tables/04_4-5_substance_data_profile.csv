@@ -1,0 +1,29 @@
+﻿評估指標,衍生欄位,BMI體重等級,有效觀察值數量(Valid N),缺失值數量(Missing N),組內漏填率(%)
+終身是否曾使用過大麻 (二元名目變數),EverMarijuaUse,01_過輕 (<5th),238,6,2.46
+終身是否曾使用過大麻 (二元名目變數),EverMarijuaUse,02_正常 (5th-85th),7924,174,2.15
+終身是否曾使用過大麻 (二元名目變數),EverMarijuaUse,03_過重 (85th-95th),1978,39,1.93
+終身是否曾使用過大麻 (二元名目變數),EverMarijuaUse,04_肥胖 (>=95th),1694,52,2.98
+過去30天內當前使用大麻天數 (衍生實質連續變數),CurrentMarijuaUse_Continuous,01_過輕 (<5th),236,8,3.28
+過去30天內當前使用大麻天數 (衍生實質連續變數),CurrentMarijuaUse_Continuous,02_正常 (5th-85th),7940,158,1.95
+過去30天內當前使用大麻天數 (衍生實質連續變數),CurrentMarijuaUse_Continuous,03_過重 (85th-95th),1980,37,1.83
+過去30天內當前使用大麻天數 (衍生實質連續變數),CurrentMarijuaUse_Continuous,04_肥胖 (>=95th),1698,48,2.75
+首次嘗試大麻的真實年齡 (衍生實質連續變數),InitiationOfMarijuaUse_Continuous,01_過輕 (<5th),83,161,65.98
+首次嘗試大麻的真實年齡 (衍生實質連續變數),InitiationOfMarijuaUse_Continuous,02_正常 (5th-85th),3251,4847,59.85
+首次嘗試大麻的真實年齡 (衍生實質連續變數),InitiationOfMarijuaUse_Continuous,03_過重 (85th-95th),859,1158,57.41
+首次嘗試大麻的真實年齡 (衍生實質連續變數),InitiationOfMarijuaUse_Continuous,04_肥胖 (>=95th),736,1010,57.85
+是否曾使用過幻覺劑如 LSD (二元名目變數),EverUsedLSD,01_過輕 (<5th),217,27,11.07
+是否曾使用過幻覺劑如 LSD (二元名目變數),EverUsedLSD,02_正常 (5th-85th),7450,648,8.0
+是否曾使用過幻覺劑如 LSD (二元名目變數),EverUsedLSD,03_過重 (85th-95th),1895,122,6.05
+是否曾使用過幻覺劑如 LSD (二元名目變數),EverUsedLSD,04_肥胖 (>=95th),1636,110,6.3
+是否曾使用針頭注射過非法藥物 (二元名目變數),IllegalInjectedDrugUse,01_過輕 (<5th),240,4,1.64
+是否曾使用針頭注射過非法藥物 (二元名目變數),IllegalInjectedDrugUse,02_正常 (5th-85th),8023,75,0.93
+是否曾使用針頭注射過非法藥物 (二元名目變數),IllegalInjectedDrugUse,03_過重 (85th-95th),2001,16,0.79
+是否曾使用針頭注射過非法藥物 (二元名目變數),IllegalInjectedDrugUse,04_肥胖 (>=95th),1724,22,1.26
+過去一年校園內有人提供販售非法藥物 (二元名目變數),IllegalDrugsAtSchool,01_過輕 (<5th),240,4,1.64
+過去一年校園內有人提供販售非法藥物 (二元名目變數),IllegalDrugsAtSchool,02_正常 (5th-85th),8021,77,0.95
+過去一年校園內有人提供販售非法藥物 (二元名目變數),IllegalDrugsAtSchool,03_過重 (85th-95th),2001,16,0.79
+過去一年校園內有人提供販售非法藥物 (二元名目變數),IllegalDrugsAtSchool,04_肥胖 (>=95th),1720,26,1.49
+是否曾未經處方使用增肌類類固醇 (二元名目變數),EverSteriodUse,01_過輕 (<5th),241,3,1.23
+是否曾未經處方使用增肌類類固醇 (二元名目變數),EverSteriodUse,02_正常 (5th-85th),8023,75,0.93
+是否曾未經處方使用增肌類類固醇 (二元名目變數),EverSteriodUse,03_過重 (85th-95th),2002,15,0.74
+是否曾未經處方使用增肌類類固醇 (二元名目變數),EverSteriodUse,04_肥胖 (>=95th),1723,23,1.32
