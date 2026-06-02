@@ -64,3 +64,18 @@ The mathematical validation workflow relies on a dual-engine inferential framewo
 The inferential analysis reveals a statistically significant difference in the mean BMI percentile between adolescent cigarette users and non-users ($P < 0.05$). However, the calculated effect size (**Cohen's $d$**) indicates that the practical magnitude of this continuous gap is extremely small. This suggests that while a structural statistical divergence exists at the population level, smoking status alone accounts for a negligible fraction of the total variance in youth body mass metrics, implying that other confounding lifestyle, socioeconomic, or genetic factors dominate adolescent developmental growth.
 
 推論統計分析顯示，現階段吸菸與不吸菸的青少年高中生之間，在平均 BMI 百分位數上存在統計學上的顯著差異（$P < 0.05$）。然而，計算所得的實質效應量（**Cohen's $d$**）表明，這一連續均值差距在實務層面上的影響力微乎其微。這意味著，雖然在母體層面上存在結構性的統計分歧，但單憑吸菸狀態本身僅能解釋青少年體重指標中極小部分的變異，暗示了其他混淆的活型態、社會經濟背景或基因因素，在青少年的發育成長中佔據了主導地位。
+
+---
+
+## 6. Project Resources & Presentation Video / 專案資源與成果介紹影片
+
+To facilitate reproducibility and research dissemination, all primary deliverables, source codes, and the official project explanation video directory are indexed below:
+為促進研究可重複性與學術傳播，本專案之核心成果、原始碼及官方專案解說影片目錄皆彙整如下：
+
+* **Official GitHub Repository / 專案官方倉庫**: 
+  [🔗 GitHub Repository Link](https://github.com/hung-cc/2026-Spring-Stat-2-Cycle-3)
+* **Project Presentation Video Directory / 專案成果介紹與口試解說影片目錄**: 
+  [🎬 Access the Presentation Video Directory on GitHub](https://github.com/hung-cc/2026-Spring-Stat-2-Cycle-3/tree/main/presentation%20video)
+
+*(Note: The video deliverables are securely archived within the repository's dedicated folder under `presentation video/` and can be accessed directly via web browsers for online streaming or download.)*
+*(註：影片成果已安全儲存於倉庫的專屬資料夾 `presentation video/` 中，可直接透過網頁瀏覽器點擊連結進入目錄進行線上播放或下載。)*
